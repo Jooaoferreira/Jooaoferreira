@@ -1,4 +1,4 @@
-## Olá eu sou João Ferreira, psicólogo e amante do mundo tech!
+### Olá eu sou João Ferreira, psicólogo e amante do mundo tech!
 
 - 🔭 Hoje trabalho com Recursos Humanos - Tech recruiter
 - 🌱 Estudando Java e Javascript
