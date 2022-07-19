@@ -1,9 +1,8 @@
 ## Olá eu sou João Ferreira, psicólogo e amante do mundo tech!
 
-
 - 🔭 Hoje trabalho com Recursos Humanos - Tech recruiter
 - 🌱 Estudando Java e Javascript
-- 😄 Pronomes: Ele/dele
+- 😄 Pronomes: Ele/dele/He
 
 <div align="justify">
   <a href="https://github.com/Jooaoferreira">
@@ -12,8 +11,8 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Joao-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" >
-  <img align="center" alt="Joao-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Joao-Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" >
+  <img align="center" alt="Joao-Javascript" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
 
 ##
